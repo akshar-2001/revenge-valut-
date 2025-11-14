@@ -1,0 +1,5 @@
+{
+  "name": "Copy of My Revenge Vault: NEET-PG AI MCQ Generator",
+  "description": "A focused, adaptive MCQ platform for NEET-PG aspirants. Powered by Gemini, it generates zero-hallucination questions solely from your lecture transcripts, revision PDFs, and PYQs to help you conquer your weak areas.",
+  "requestFramePermissions": []
+}
